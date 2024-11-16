@@ -1,0 +1,186 @@
+{
+    "Delhi": {
+        "summary": "Delhi, officially known as the National Capital Territory of Delhi (NCT), is the capital territory of India. It has a population of about 16.8 million, making it the second most populous city and second most populous urban agglomeration in India.",
+        "url": "https://en.wikipedia.org/wiki/Delhi"
+    },
+    "Goa": {
+        "summary": "Goa is a state on the southwestern coast of India within the region known as the Konkan. It is bounded by Maharashtra to the north and Karnataka to the east and south, with the Arabian Sea forming its western coast.",
+        "url": "https://en.wikipedia.org/wiki/Goa"
+    },
+    "India": {
+        "summary": "India is a country in South Asia known for its diverse culture, historical landmarks, and as the world's largest democracy. Its capital is New Delhi.",
+        "url": "https://en.wikipedia.org/wiki/India"
+    },
+    "Maharashtra": {
+        "summary": "Maharashtra is a state in western India known for its diverse geography, historic landmarks, and economic hub Mumbai. It is one of the largest and most industrialized states in India.",
+        "url": "https://en.wikipedia.org/wiki/Maharashtra"
+    },
+    "Mumbai": {
+        "summary": "Mumbai (formerly Bombay) is a sprawling city on India’s west coast. It’s the capital city of the Indian state of Maharashtra and is known for its thriving Bollywood film industry and bustling port.",
+        "url": "https://en.wikipedia.org/wiki/Mumbai"
+    },
+    "Pune": {
+        "summary": "Pune is a city in western India, known for its educational institutions and growing information technology sector. It is also referred to as the 'Oxford of the East'.",
+        "url": "https://en.wikipedia.org/wiki/Pune"
+    },
+    "Nagpur": {
+        "summary": "Nagpur is a major city in Maharashtra known for its orange production and as a key transportation hub in central India.",
+        "url": "https://en.wikipedia.org/wiki/Nagpur"
+    },
+    "Manipur": {
+        "summary": "Manipur is a state in northeastern India known for its rich cultural heritage, scenic beauty, and as a center of traditional dance forms and sports.",
+        "url": "https://en.wikipedia.org/wiki/Manipur"
+    },
+    "Imphal": {
+        "summary": "Imphal is the capital city of Manipur, known for its historical significance and as a cultural and economic center in the state.",
+        "url": "https://en.wikipedia.org/wiki/Imphal"
+    },
+    "Meghalaya": {
+        "summary": "Meghalaya is a state in northeastern India known for its picturesque landscapes, including rolling hills and waterfalls. It is known for its rich tribal culture and biodiversity.",
+        "url": "https://en.wikipedia.org/wiki/Meghalaya"
+    },
+    "Shillong": {
+        "summary": "Shillong is the capital of Meghalaya and is known for its cool climate, scenic views, and vibrant music scene.",
+        "url": "https://en.wikipedia.org/wiki/Shillong"
+    },
+    "Mizoram": {
+        "summary": "Mizoram is a state in northeastern India known for its lush green hills, vibrant tribal cultures, and scenic landscapes.",
+        "url": "https://en.wikipedia.org/wiki/Mizoram"
+    },
+    "Aizawl": {
+        "summary": "Aizawl is the capital city of Mizoram, known for its picturesque setting on a hilltop and as a cultural and administrative center.",
+        "url": "https://en.wikipedia.org/wiki/Aizawl"
+    },
+    "Nagaland": {
+        "summary": "Nagaland is a state in northeastern India known for its rich tribal heritage, vibrant festivals, and mountainous terrain.",
+        "url": "https://en.wikipedia.org/wiki/Nagaland"
+    },
+    "Kohima": {
+        "summary": "Kohima is the capital of Nagaland, known for its historical significance and as a center for Naga culture and traditions.",
+        "url": "https://en.wikipedia.org/wiki/Kohima"
+    },
+    "Dimapur": {
+        "summary": "Dimapur is a city in Nagaland known for its role as an economic and transportation hub in the state.",
+        "url": "https://en.wikipedia.org/wiki/Dimapur"
+    },
+    "Odisha": {
+        "summary": "Odisha is a state on the eastern coast of India known for its temples, including the Jagannath Temple in Puri, and its rich cultural traditions.",
+        "url": "https://en.wikipedia.org/wiki/Odisha"
+    },
+    "Bhubaneswar": {
+        "summary": "Bhubaneswar is the capital of Odisha, known for its ancient temples and as a major center for arts and culture.",
+        "url": "https://en.wikipedia.org/wiki/Bhubaneswar"
+    },
+    "Puri": {
+        "summary": "Puri is a city in Odisha known for its sacred Jagannath Temple and as a popular destination for its beaches and cultural heritage.",
+        "url": "https://en.wikipedia.org/wiki/Puri"
+    },
+    "Punjab": {
+        "summary": "Punjab is a northern state in India known for its agricultural productivity and vibrant culture. Its major city is Amritsar, known for the Golden Temple, a significant Sikh pilgrimage site.",
+        "url": "https://en.wikipedia.org/wiki/Punjab,_India"
+    },
+    "Chandigarh": {
+        "summary": "Chandigarh is the capital of both Haryana and Punjab. It is known for its modern architecture and urban planning, designed by architect Le Corbusier.",
+        "url": "https://en.wikipedia.org/wiki/Chandigarh"
+    },
+    "Amritsar": {
+        "summary": "Amritsar is a city in Punjab known for the Golden Temple, an important Sikh pilgrimage site, and its vibrant cultural heritage.",
+        "url": "https://en.wikipedia.org/wiki/Amritsar"
+    },
+    "Rajasthan": {
+        "summary": "Rajasthan is a state in northern India known for its desert landscapes, historic palaces, and rich cultural heritage. It is home to cities such as Jaipur, Udaipur, and Jodhpur.",
+        "url": "https://en.wikipedia.org/wiki/Rajasthan"
+    },
+    "Jaipur": {
+        "summary": "Jaipur, also known as the Pink City, is the capital of Rajasthan and is known for its historic palaces, forts, and vibrant culture.",
+        "url": "https://en.wikipedia.org/wiki/Jaipur"
+    },
+    "Udaipur": {
+        "summary": "Udaipur is a city in Rajasthan known for its lakes, palaces, and as a popular destination for its scenic beauty and romantic ambiance.",
+        "url": "https://en.wikipedia.org/wiki/Udaipur"
+    },
+    "Jodhpur": {
+        "summary": "Jodhpur, known as the Blue City, is a city in Rajasthan famous for its blue-painted houses, historic forts, and as a major cultural center.",
+        "url": "https://en.wikipedia.org/wiki/Jodhpur"
+    },
+    "Sikkim": {
+        "summary": "Sikkim is a state in northeastern India known for its stunning landscapes, including the Himalayas, and its diverse flora and fauna.",
+        "url": "https://en.wikipedia.org/wiki/Sikkim"
+    },
+    "Gangtok": {
+        "summary": "Gangtok is the capital of Sikkim, known for its beautiful views of the Himalayas, vibrant culture, and as a gateway to various trekking routes.",
+        "url": "https://en.wikipedia.org/wiki/Gangtok"
+    },
+    "Tamil Nadu": {
+        "summary": "Tamil Nadu is a state in southern India known for its rich cultural heritage, historic temples, and vibrant traditions. It is one of the most industrialized states in India.",
+        "url": "https://en.wikipedia.org/wiki/Tamil_Nadu"
+    },
+    "Chennai": {
+        "summary": "Chennai, formerly known as Madras, is a coastal city in southeastern India. It’s the capital of Tamil Nadu state and is known for its historic temples, vibrant culture, and thriving arts scene.",
+        "url": "https://en.wikipedia.org/wiki/Chennai"
+    },
+    "Coimbatore": {
+        "summary": "Coimbatore is a city in Tamil Nadu known for its textile industry and as a major center for manufacturing and commerce.",
+        "url": "https://en.wikipedia.org/wiki/Coimbatore"
+    },
+    "Madurai": {
+        "summary": "Madurai is a city in Tamil Nadu known for its ancient Meenakshi Temple and as an important center of Tamil culture and history.",
+        "url": "https://en.wikipedia.org/wiki/Madurai"
+    },
+    "Tiruchirappalli": {
+        "summary": "Tiruchirappalli, often called Trichy, is a city in Tamil Nadu known for its historic temples and as an educational and commercial hub.",
+        "url": "https://en.wikipedia.org/wiki/Tiruchirappalli"
+    },
+    "Salem": {
+        "summary": "Salem is a city in Tamil Nadu known for its textile industry and as a major commercial and educational center in the state.",
+        "url": "https://en.wikipedia.org/wiki/Salem,_Tamil_Nadu"
+    },
+    "Tirunelveli": {
+        "summary": "Tirunelveli is a city in Tamil Nadu known for its historic temples and as an important center for agriculture and commerce.",
+        "url": "https://en.wikipedia.org/wiki/Tirunelveli"
+    },
+    "Karnataka": {
+        "summary": "Karnataka is a state in southwestern India known for its diverse culture, historic sites, and economic growth. Major cities include Bengaluru, Mysuru, and Hubli.",
+        "url": "https://en.wikipedia.org/wiki/Karnataka"
+    },
+    "Bengaluru": {
+        "summary": "Bengaluru, also known as Bangalore, is the capital city of Karnataka. It is a major tech hub, known for its IT industry and vibrant cultural scene.",
+        "url": "https://en.wikipedia.org/wiki/Bengaluru"
+    },
+    "Mysuru": {
+        "summary": "Mysuru, also known as Mysore, is a city in Karnataka known for its royal heritage, the Mysore Palace, and as a center for yoga and cultural festivals.",
+        "url": "https://en.wikipedia.org/wiki/Mysuru"
+    },
+    "Hubli": {
+        "summary": "Hubli is a city in Karnataka known for its role as an industrial and commercial center and as a major educational hub.",
+        "url": "https://en.wikipedia.org/wiki/Hubli"
+    },
+    "Davanagere": {
+        "summary": "Davanagere is a city in Karnataka known for its educational institutions and as an important trade center in the state.",
+        "url": "https://en.wikipedia.org/wiki/Davanagere"
+    },
+    "Bellary": {
+        "summary": "Bellary is a city in Karnataka known for its mining industry and historical landmarks.",
+        "url": "https://en.wikipedia.org/wiki/Bellary"
+    },
+    "Tumakuru": {
+        "summary": "Tumakuru is a city in Karnataka known for its historical and cultural significance, and as a growing industrial center.",
+        "url": "https://en.wikipedia.org/wiki/Tumakuru"
+    },
+    "Chitradurga": {
+        "summary": "Chitradurga is a city in Karnataka known for its historic fort and as a center for agriculture.",
+        "url": "https://en.wikipedia.org/wiki/Chitradurga"
+    },
+    "Hassan": {
+        "summary": "Hassan is a city in Karnataka known for its historic temples and as a key center for agriculture in the region.",
+        "url": "https://en.wikipedia.org/wiki/Hassan"
+    },
+    "Kalaburagi": {
+        "summary": "Kalaburagi, formerly Gulbarga, is a city in Karnataka known for its historical monuments and as an important center for trade.",
+        "url": "https://en.wikipedia.org/wiki/Kalaburagi"
+    },
+    "Bidar": {
+        "summary": "Bidar is a city in Karnataka known for its historic fort and as a significant center for education and agriculture.",
+        "url": "https://en.wikipedia.org/wiki/Bidar"
+    }
+}
